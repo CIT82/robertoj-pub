@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    /* Sets the font for the entire page with fallbacks */
+    margin: 0;
+    /* Removes default margin around the body. */
+    padding: 0;
+    /* Removes default padding around the body. */
+    background-color: #f4f4f4;
+    /* Sets a light gray background color for the whole page. */
+}
+
+header {
+    background-color: #2f4736;
+    /* Sets a dark gray background color for the header. */
+    color: white;
+    /* Sets the text color in the header to white. */
+    text-align: center;
+    /* Centers the text horizontally within the header. */
+    padding: 10px 0;
+    /* Adds 10 pixels of padding above and below the header content. */
+}
+
+h1 {
+    margin: 0;
+    /* Removes default margin around the h1 element*/
+}
+
+main {
+    padding: 20px;
+    /* Adds 20 pixels of padding around the main content area. */
+}
+
+section {
+    margin-bottom: 20px;
+    /* Adds 20 pixels of space below each section element */
+}
+
+footer {
+    background-color: #2f4736;
+    /* Sets a dark gray background color for the footer*/
+    color: white;
+    /* Sets the text color in the footer to white. */
+    text-align: center;
+    /* Centers the text horizontally within the footer. */
+    padding: 10px 0;
+    /* Adds 10 pixels of padding above and below the footer content. */
+}
